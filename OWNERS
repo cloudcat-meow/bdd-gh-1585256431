@@ -1,4 +1,6 @@
 approvers:
-- abayer-bot
+- jenkins-x-bot[bot]
+- abayer
 reviewers:
-- abayer-bot
+- jenkins-x-bot[bot]
+- abayer
